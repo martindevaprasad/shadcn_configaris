@@ -87,7 +87,7 @@ const Feature108 = ({
             <div className="container mx-auto">
                 <div className="flex flex-col items-center gap-4 text-center">
                     {/* <Badge className=" bg-gradient-to-l from-orange-400 via-pink-500 to-rose-500 bg-clip-text text-transparent" variant="outline">{badge}</Badge> */}
-                    <h1 className="max-w-2xl text-3xl font-semibold text-black md:text-4xl">
+                    <h1 className="max-w-2xl text-3xl font-semibold text-mist-50 md:text-4xl">
                         Configaris — Configuration, Systems, Control & Intelligence
                     </h1>
                     <p className="text-muted-foreground">{description}</p>

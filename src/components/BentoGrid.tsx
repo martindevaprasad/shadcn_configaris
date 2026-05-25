@@ -153,7 +153,7 @@ export default function RuixenBentoCards() {
                         <div className="grid grid-cols-1 lg:grid-cols-6 items-center">
                             <div className="hidden lg:block lg:col-span-3" />
                             <div className="col-span-1 lg:col-span-3 text-right px-4">
-                                <h1 className="text-4xl md:text-6xl lg:text-[36px] font-extrabold leading-tight mb-4 text-black tracking-tight">
+                                <h1 className="text-4xl md:text-6xl lg:text-[36px] font-extrabold leading-tight mb-4 text-zinc-600 tracking-tight">
                                     <span className="font-[Fastelar]  bg-gradient-to-l from-orange-400 via-pink-500 to-rose-500 bg-clip-text text-transparent">Configaris</span> crafts intelligent digital systems for the businesses.
                                 </h1>
 

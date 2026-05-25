@@ -11,6 +11,7 @@ import Navbar from './components/Navbar'
 
 import Footers02 from './components/creative-tim/blocks/footers-02'
 import { Footer2 } from './components/footer2'
+import { FeaturePage } from './pages/FeaturePage'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -22,6 +23,7 @@ function App() {
         <main>
          <Routes>
           <Route index path='/' element={<HomePage/>}/>
+            <Route  path='/services' element={<FeaturePage />} />
          </Routes>
         </main>
 
